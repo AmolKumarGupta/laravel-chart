@@ -2,7 +2,7 @@
 ## Installation
 
 ```sh
-composer require amol/laravel-chart
+composer require amol/laravel-chart:dev-main
 ```
 
 ## Sample
